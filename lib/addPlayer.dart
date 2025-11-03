@@ -152,7 +152,7 @@ class _AddplayerState extends State<Addplayer> {
                     keyboardType: TextInputType.number,
                     inputFormatters: [FilteringTextInputFormatter.digitsOnly],
                     decoration: InputDecoration(
-                      label: const Text("Tinggi Bada (cm)"),
+                      label: const Text("Tinggi Badan (cm)"),
                       hintText: "Masukkan tinggi badan pemain",
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(20),
