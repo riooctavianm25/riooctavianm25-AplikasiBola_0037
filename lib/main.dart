@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:mini_project/Login.dart';
-import 'package:mini_project/Register.dart';
-import 'package:mini_project/addPlayer.dart';
-import 'package:mini_project/home.dart';
 
 void main() {
   runApp(const MyApp());
